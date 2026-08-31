@@ -9,9 +9,8 @@ public:
         }
         sort(nums.begin(),nums.end());
         int z = nums.size();
-        if(z>1){
             return nums[z-1]*nums[z-2];
-        }
-        return nums[z-1];
+        
+       // return nums[z-1];
     }
 };
