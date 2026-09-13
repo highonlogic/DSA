@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/highonlogic/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/highonlogic/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/highonlogic/DSA/tree/master/2418-sort-the-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/highonlogic/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/highonlogic/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/highonlogic/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3895-count-digit-appearances](https://github.com/highonlogic/DSA/tree/master/3895-count-digit-appearances) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/highonlogic/DSA/tree/master/2418-sort-the-people) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/highonlogic/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/highonlogic/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
