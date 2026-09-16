@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/highonlogic/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/highonlogic/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/highonlogic/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3452-sum-of-good-numbers](https://github.com/highonlogic/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3895-count-digit-appearances](https://github.com/highonlogic/DSA/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
