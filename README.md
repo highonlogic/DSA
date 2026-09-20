@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/highonlogic/DSA/tree/master/2418-sort-the-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/highonlogic/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/highonlogic/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/highonlogic/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
