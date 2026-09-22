@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/highonlogic/DSA/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/highonlogic/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/highonlogic/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/highonlogic/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
