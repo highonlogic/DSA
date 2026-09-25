@@ -6,7 +6,6 @@ public:
             return 0;
         else
         {
-           // n = n%1000;
             for(int i=1000; i<=n; i++){
                 count++;
             }
